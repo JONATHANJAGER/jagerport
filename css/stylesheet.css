@@ -1,0 +1,22 @@
+.top-navigation {
+	background-color: #fff;
+	position: fixed;
+	width: 100%;
+}
+
+.top-navigation .navcontent {
+	height: 4.35rem;
+}
+.top-navigation .links {
+	float: right;
+	color: #838994;
+	font-size: 1rem;
+	margin-top: 1.5rem;
+}
+.navcontent {
+
+}
+
+.link {
+	font-family: 'Tahoma';
+}
