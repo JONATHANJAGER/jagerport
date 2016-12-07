@@ -20,3 +20,6 @@
 .link {
 	font-family: 'Tahoma';
 }
+.content {
+	background-image: url(../img/desk.jpg);
+}
