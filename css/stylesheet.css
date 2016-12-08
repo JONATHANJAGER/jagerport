@@ -22,4 +22,15 @@
 }
 .content {
 	background-image: url(../img/desk.jpg);
+	
 }
+
+.parallax {
+	background-image: url(../img/business.jpg);
+	height: 50%;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.intro
